@@ -1,0 +1,27 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "The Next Big Thing! 👀 Watchout 👀",
+  "main": "index.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chainlink",
+    "Token",
+    "Bridge",
+    "Solidity",
+    "CCIP",
+    "Smartcontracts",
+    "foundry"
+  ],
+  "author": "Enockkipkoech",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts": "^1.1.0"
+  }
+}
