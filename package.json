@@ -22,6 +22,8 @@
   "author": "Enockkipkoech",
   "license": "ISC",
   "dependencies": {
-    "@chainlink/contracts": "^1.1.0"
+    "@chainlink/contracts": "^1.1.0",
+    "@chainlink/functions-toolkit": "^0.2.8"
+
   }
 }
